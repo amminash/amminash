@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amminash
 - 👀 I’m interested in Web Design and Development
-- 🌱 I’m currently offering GSc. Information Technology
+- 🌱 I’m currently offering BSc. Information Technology
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
