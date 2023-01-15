@@ -2,7 +2,7 @@
 - - 🌱 I’m BSc. Information Technology student from AAMUSTED, Ghana.
 - 👀 I’m interested in Web Design and Development
 - 🌱 I’m currently Learning Frontend Development using HTML, CSS & JavaScript
-💞️ I’m looking to collaborate on personal HTML & CSS project😊
+- 💞️ I’m looking to collaborate on personal HTML & CSS project😊
 <!-- - - 📫 How to reach me ... -->
 
 <!---
